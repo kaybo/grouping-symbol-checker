@@ -1,4 +1,4 @@
-# Grouping Matching Symbol
+# Matching Symbol Checker
 
 A program that checks if special symbols are nested in the correct position within the textfile.
 
